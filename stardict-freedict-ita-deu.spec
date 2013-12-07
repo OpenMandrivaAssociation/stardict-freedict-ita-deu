@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release %mkrel 8
+%define release 9
 %define dict_format_version	2.4.2
 
 Summary:	Italian -> German Freedict dictionary for StarDict 2
